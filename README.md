@@ -3,7 +3,7 @@
 ### Um site que permite você pesquisar qualquer tipo de comida ou bebida e o mesmo retorna diversos tipos de receitas com essa comida
 ## Algumas Telas Da Aplicação
 <img align="center" src="git.png">
-<img align="center" src="git 2.png">
+<img align="center" src="juice.png">
 
 
 ## 🚀Tecnologias Usadas
