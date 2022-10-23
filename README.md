@@ -17,9 +17,20 @@
 
 </div>
 
-## Como Usar 😀
-### Para usar basta baixar o arquivo aqui pelo github mesmo,acessar o script.js e colocar sua api secreta do openweathermap em apikey e estará pronto para uso!
+## Instalação 😀 
 
+#### Clone o Projeto Com: </br>
+
+git clone https://github.com/JoaoRicardo2005/Receitas
+#### Entre na pasta e instale as dependências com: 
+ Yarn
+#### Com tudo correto você pode iniciar o servidor com:
+yarn start
+#### Se você estiver no ambiente de desenvolvimento, poderá usar o servidor de desenvolvimento:
+yarn dev</br>
+yarn queue
 ## Importante 💛
 
 ### a aplicação foi totalmente feita por mim joão ricardo mas você pode usar ela do jeito que preferir! seja para estudo,apoio nos estudos ou até para ganhar dinheiro quem sabe rsrs. entre em contato em joaobarbanti7@gmail.com.
+</div>
+
